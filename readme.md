@@ -1,2 +1,2 @@
 Repozytorium ćwiwczeniowe
-readme todo
+readme tod
